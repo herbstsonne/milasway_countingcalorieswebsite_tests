@@ -12,7 +12,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountingCalories.DataAccess
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountingCalories.Shared", "..\CountingCalories.Shared\CountingCalories.Shared.csproj", "{21CA4A97-6C34-49BC-8D3B-2E5FD534CEC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingCalories.Tests", "CountingCalories.Tests\CountingCalories.Tests.csproj", "{CF956519-5D4F-40A2-B539-F7A06E1320EC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingCalories.Tests", "..\CountingCalories.Tests\CountingCalories.Tests.csproj", "{CF956519-5D4F-40A2-B539-F7A06E1320EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

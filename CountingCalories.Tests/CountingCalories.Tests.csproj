@@ -18,7 +18,7 @@
     <Folder Include="Domain\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\CountingCalories.Domain\CountingCalories.Domain.csproj" />
-    <ProjectReference Include="..\..\CountingCalories.DataAccess\CountingCalories.DataAccess.csproj" />
+    <ProjectReference Include="..\CountingCalories.Domain\CountingCalories.Domain.csproj" />
+    <ProjectReference Include="..\CountingCalories.DataAccess\CountingCalories.DataAccess.csproj" />
   </ItemGroup>
 </Project>
